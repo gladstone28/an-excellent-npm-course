@@ -1,0 +1,15 @@
+{
+  "name": "an-excellent-npm-course",
+  "version": "1.0.0",
+  "description": "link to source folder:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gladstone",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
